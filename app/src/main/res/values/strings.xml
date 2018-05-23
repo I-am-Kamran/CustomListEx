@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CustomListEx</string>
+    <string-array name="data">
+    <item>Delhi</item>
+    <item>Goa</item>
+    <item>Jaipur</item>
+    <item>Noida</item>
+    <item>Patna</item>
+    <item>Agra</item>
+    </string-array>
+</resources>
